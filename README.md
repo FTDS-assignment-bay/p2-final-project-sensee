@@ -2,8 +2,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15228806&assignment_repo_type=AssignmentRepo)
 
 # SenSee (Sentiment Analysis of Sunscreen)
-
-![SenSee Logo](https://drive.google.com/file/d/1Dc4782F6gtI5Y5zNlLe28cjxHiP86LAe/view?usp=sharing)
+![sunsee (1)](https://github.com/FTDS-assignment-bay/p2-final-project-sensee/assets/162549243/ecde7944-446c-4419-99d9-1829b89b39a3)
 
 ## 🌞 Project Overview
 **SenSee** leverages Natural Language Processing (NLP) to analyze customer sentiment towards sunscreen products from Twitter. The aim is to distinguish between affiliated (e.g., sponsored) and non-affiliated sentiments, providing invaluable insights for consumer analytics and strategic decision-making.
